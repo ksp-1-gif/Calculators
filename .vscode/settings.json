@@ -1,5 +1,9 @@
+// filepath: c:\Users\汤迦文\Desktop\git项目\.vscode\settings.json
 {
     "files.associations": {
         "cmath": "cpp"
-    }
+    },
+    // ...existing code...
+    "github.copilot.enable": {}
+    // ...existing code...
 }
